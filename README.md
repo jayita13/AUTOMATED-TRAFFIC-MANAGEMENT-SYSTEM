@@ -53,17 +53,26 @@ for that iteration we give output to lane which hasn’t been a chance before.
 
 # PREDICTION
 Comparison of Four counts(lanes) is then done and lane with maximum number of vehicles is given green signal for that timestamp. Process continues for next timestamp.
+
 Green signal to lane number 4	      //prediction
+
 {1: 33, 2: 12, 3: 15, 4: 42}	      //lane numbers and no. of car count in a dictionary
+
 Green signal to lane number 1
+
 {1: 117, 2: 28, 3: 32}
+
 Green signal to lane number 3
+
 {2: 40, 3: 49, 4: 45}
+
 Green signal to lane number 2
+
 {1: 46, 2: 55, 4: 86}
+
 Green signal to lane number 1
+
 {1: 114, 3: 22, 4: 75}
-Green signal to lane number 4
 
 # FUTURE SCOPE
 1.Criminal tracking for rules violation and subsequent signal forwarding to nearest police station.
