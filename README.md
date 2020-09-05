@@ -24,6 +24,8 @@ Detection of vehicles is the process of identifying a vehicle from a video image
 A redundant collection of overlapping bounding boxes within the image / frame is suggested as potentially useful areas for the region's proposal network.
 YOLO is special, as it looks at a certain part of an object only once, like other classifiers. As an object detector, this technique is much quicker with comparable precision.
 
+<img src='https://i.ytimg.com/vi/zIZeGewfKBg/maxresdefault.jpg'>
+
 Step I: The input video file is given to the module. 
 
 Step II: Frames are extracted from the videos. 
