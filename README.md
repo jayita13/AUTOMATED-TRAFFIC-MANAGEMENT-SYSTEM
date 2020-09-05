@@ -1,5 +1,7 @@
 # AUTOMATED-TRAFFIC-MANAGEMENT-SYSTEM
 
+<img src='https://images.squarespace-cdn.com/content/v1/53f78d0be4b06aa2bfc2d8da/1450204066544-CURD8Q4Y9J5FNGHCMCBP/ke17ZwdGBToddI8pDm48kD8CuAIZkq9N8hb0i_3XLvYUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKc89AJUwEjX8DQLiIhOsVfkPWEpIqnx-skx3ZV02U_kD7o301BB-hY3eq-4LA4hOjV/TV_Web_2015_Home_placeholder4a.png?format=1500w'>
+
 # REALTIME EFFICIENT TRAFFIC MONITORING
 
 The fact is that, the population of city and numbers of vehicles on the road are increasing day by day. 
